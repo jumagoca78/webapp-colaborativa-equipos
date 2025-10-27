@@ -1,0 +1,43 @@
+# PHP
+*.log
+.htaccess
+.user.ini
+
+# Configuración local
+backend/config/database.local.php
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Backup files
+*.bak
+*.backup
+
+# Vendor/Dependencies (si se usan en futuro)
+vendor/
+node_modules/
+
+# Uploads
+uploads/
+*.uploaded
+
+# Logs
+logs/
+*.log
+
+# Cache
+cache/
+*.cache
