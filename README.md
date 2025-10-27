@@ -32,6 +32,6 @@ Implementar un sistema de expediente clínico modular y colaborativo con Git y G
 5. Crear Pull Request → `integration`  
 6. Integrar, probar y desplegar
 
-## 👥 Docente
-**Nombre del docente:** *(agrega aquí)*  
+##  Docente
+**Nombre del docente:** *Juan Manuel Gonzalez Calleros*  
 **Periodo:** Otoño 2025  
