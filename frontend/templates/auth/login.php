@@ -25,8 +25,7 @@
             ?>
         </div>
         <?php endif; ?>
-
-        <form action="backend/auth/login.php" method="POST" class="login-form">
+        <form action="../../backend/auth/login.php" method="POST" class="login-form">
             <div class="form-group">
                 <label for="username">Usuario</label>
                 <input type="text" id="username" name="username" required autofocus>
